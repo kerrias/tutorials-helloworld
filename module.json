@@ -1,0 +1,16 @@
+{
+    "name": "hello-world",
+    "version": "1.0.0",
+    "dependencies": {
+        "bits-base": "^2.0.0"
+    },
+    "appDir": "app/",
+    "contentElement": "hello-world-app",
+    "contentImport": "/elements/hello-world-app/hello-world-app.html",
+    "scopes": [
+      {"name": "public", "displayName": "Public"}
+    ],
+    "displayName": "Hello World",
+    "icon": "icons:favorite",
+    "category": "Tutorials"
+}
